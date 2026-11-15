@@ -16,9 +16,9 @@ export default defineNuxtConfig({
   // overridden per deploy environment by NUXT_SITE_URL / NUXT_SITE_ENV at build time
   site: {
     url: 'https://example.com',
-    name: 'Nuxt Site Template',
-    description: 'Starting point for a Nuxt site deployed as a Docker image.',
-    defaultLocale: 'en',
+    name: 'Luca Brivio',
+    description: 'Sito personale di Luca Brivio.',
+    defaultLocale: 'it',
   },
 
   compatibilityDate: '2025-07-15',
